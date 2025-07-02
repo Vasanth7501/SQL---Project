@@ -1,4 +1,4 @@
-🎓 Student Management System – SQL Project
+🎓 Student Database Management System – SQL Project
 
 
 📘 Overview
